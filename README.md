@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I am currently working on artificial intelligence and business automation projects<br>🤖 I am looking to support and collaborate with interesting projects in deep learning<br>📚I am currently learning about hpc (High Performance Computing).
+💼 I am currently working on artificial intelligence and business automation projects<br>🤖 I am looking to support and collaborate with interesting projects in deep learning<br>📚 I am currently learning about hpc (High Performance Computing).
 
 
 ## 🌐 Socials:
